@@ -1,0 +1,36 @@
+Ejercicios – Taller 1
+Michael Sebastián Caicedo Rosero
+
+1.1 Pídale a varios LLMs de IAGen una definición de IA, compárelas con lo visto en el capítulo.
+* ChatGPT: “La inteligencia artificial es la disciplina que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el razonamiento, el aprendizaje, la percepción y la comprensión del lenguaje natural.”
+* DeepSeek: “IA es el campo de la informática que diseña algoritmos y modelos capaces de aprender de los datos y tomar decisiones o generar resultados de manera autónoma.”
+* Claude (Anthropic): “La IA es la capacidad de sistemas computacionales para simular procesos cognitivos humanos, como el aprendizaje, la planificación y la resolución de problemas.”
+Comparación con el capítulo:
+El documento distingue entre IA General (automatización completa de sistemas, como una ciudad) e IA Estrecha (resolución de problemas específicos), y presenta enfoques simbólico, con agentes, bio-inspirado y basado en datos. Las definiciones de los LLMs destacan aprendizaje y simulación cognitiva, alineados con el enfoque de datos/redes neuronales, pero omiten otros enfoques históricos importantes.
+
+1.2 Definición propia de IA.
+“La inteligencia artificial es el conjunto de técnicas y modelos que permiten a un sistema computacional percibir su entorno, aprender de la experiencia, tomar decisiones y ejecutar acciones de manera autónoma, con el fin de resolver problemas o imitar comportamientos humanos.”
+
+1.3 Análisis del video en relación con el documento.
+Video sobre xenobots (organismos biológicos hechos de células de rana capaces de moverse, autorrepararse y reproducirse). Se mencionan aplicaciones potenciales como la recolección de microplásticos o eliminación de células cancerígenas, pero también se alertan riesgos éticos y militares (financiamiento de DARPA) y otros desarrollos de IA con rostros humanos que plantean riesgos de privacidad y deepfakes.
+Relación con el documento:
+* Los xenobots ejemplifican el enfoque bio-inspirado.
+* Representan un sistema complejo con resultados inciertos (autorreplicación).
+* Coincide en el énfasis del potencial transformador y los retos éticos y geopolíticos.
+* El vínculo con lo militar refuerza la dimensión de geopolítica IA mencionada en el capítulo.
+Conclusión:
+Los xenobots ilustran cómo la IA avanza hacia lo emergente e incontrolable, confirmando que la IA es tanto técnica como social y ética, y que exige regulación y responsabilidad.
+
+1.4 Planes del gobierno en IA (Colombia).
+* CONPES 3975 (2019): Política Nacional de Transformación Digital e IA, enfocada en talento humano, ética e innovación.
+* Ministerio TIC / C4IR.CO: Promoción de IA en salud, agricultura y gobierno digital.
+* Debates recientes sobre regulación de IA en educación, justicia y protección de datos.
+Comparación con el documento:
+Coincide con la idea de que la IA forma parte de la geopolítica global: Colombia también desarrolla planes estratégicos, aun en etapas iniciales, buscando innovar y prevenir riesgos.
+
+Herramientas de IA utilizadas y método
+Para realizar el análisis del video (ejercicio 1.3), se usaron las siguientes herramientas de transcripción y subtitulado:
+* Subtítulos automáticos de YouTube: activados mediante el botón "CC" dentro del reproductor, seguidos de "Mostrar transcripción" para acceder al texto con marcas de tiempo. Vomo
+* DownSub: una herramienta web gratuita donde se pega la URL del video (de YouTube, Drive, Viki, Vimeo, entre otros) para descargar automáticamente el archivo de subtítulos en formatos como TXT, SRT o VTT. VomoDownsub
+Así obtuve la transcripción del video, facilitando un análisis más preciso y organizado.
+
